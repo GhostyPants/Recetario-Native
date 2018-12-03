@@ -1,0 +1,27 @@
+{
+    "recetas": [
+        {
+            "nombreReceta": "Pan con queso",
+            "ingredientes": [
+                {
+                    "nombreIngrediente": "Pan",
+                    "medida": "Piezas",
+                    "pesoReceta": "2 Piezas",
+                    "precioIngrediente": 100,
+                    "pesoCompra": "10 Piezas"
+                }
+            ],
+            "preparacion": {
+                "descripcionPreparacion": "Para preparar un Pan con Queso excelente se necesitan los siguientes ingredientes: Pan y queso \nSe prepara de la siguiente manera se parte el pan de la manera que prefiera y se le agrega el queso",
+                "duracionPreparacion": "Menos de un minuto",
+                "calentarPreparacion": "No es necesarion calentarlo",
+                "caloriassPreparacion": "Calorias coming soon"
+            },
+            "video": {
+                "tituloVideo": "Titulo del video",
+                "urlVideo": "Aqui Va la url del video",
+                "descripcionVideo": "Un video o serie de video de como preparar un buen pan con queso"
+            }
+        }
+    ]
+}
