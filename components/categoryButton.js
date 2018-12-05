@@ -2,7 +2,6 @@ import React from 'react'
 import { TouchableNativeFeedback, View, Text, StyleSheet } from 'react-native'
 
 import color from '../constants/constVariables'
-import { BoxShadow } from 'react-native-shadow'
 
 const CategoryButton = (props) => {
     const styles = StyleSheet.create({

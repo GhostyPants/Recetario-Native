@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, Text, StyleSheet } from 'react-native'
 
-import { Colors as color} from '../constants/constVariables'
+import color from '../constants/constVariables'
 
 class RecetaCard extends React.Component {
     render() {

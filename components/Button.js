@@ -1,9 +1,9 @@
 import React from 'react'
 import { TouchableNativeFeedback, StyleSheet, Text, View } from 'react-native'
 
-import { Colors as color } from '../constants/constVariables'
+import color from '../constants/constVariables'
 
-const Btn = (props) => {
+const Button = (props) => {
     return (
         <TouchableNativeFeedback onPress={() => alert('Ok')}>
             <View style={styles.button}>
@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
         borderRadius: 5,
         justifyContent: 'center',
         alignItems: 'center',
+        marginBottom: 30
     },
     text: {
         color: color.whiteBackground,
@@ -30,4 +31,4 @@ const styles = StyleSheet.create({
     },
 })
 
-export { Btn }
+export default Button
