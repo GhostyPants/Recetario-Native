@@ -23,5 +23,11 @@
                 "descripcionVideo": "Un video o serie de video de como preparar un buen pan con queso"
             }
         }
-    ]
+    ],
+    "categories": [
+        {"name": "Postre", "textColor": "#5979D8"},
+        {"name": "Carne", "textColor": "#D85959"},
+        {"name": "Ensalada", "textColor": "#31CF5C"},
+        {"name": "Otros", "textColor": "#D8D811"}
+      ]
 }

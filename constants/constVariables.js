@@ -5,6 +5,7 @@ const Colors = {
     blackText: '#707070',
     whiteBackground: '#FFFFFF',
     greenPrimary: '#31CF5C',
+    greyBorder: '#D3D3D3'
 }
 
-export { Colors }
+export default Colors
